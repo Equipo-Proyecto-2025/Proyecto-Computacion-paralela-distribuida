@@ -9,18 +9,18 @@ cd Proyecto-Computacion-paralela-distribuida
 ## 3. Crea una nueva rama  
 git branch nombre
 
-## 3. Cambia a una nueva rama
+## 4. Cambia a una nueva rama
 git checkout nombre
 
-## 4. Realiza los cambios necesarios en tu código o archivos del proyecto
+## 5. Realiza los cambios necesarios en tu código o archivos del proyecto
 
-## 5. Agrega todos los archivos modificados
+## 6. Agrega todos los archivos modificados
 git add .
 
-## 6. Crea un commit con un mensaje descriptivo
+## 7. Crea un commit con un mensaje descriptivo
 git commit -m "Agrega descripción breve de los cambios realizados"
 
-## 7. Sube la rama y tus cambios a GitHub
+## 8. Sube la rama y tus cambios a GitHub
 git push -u origin data_extraction
 
 
