@@ -1,2 +1,9 @@
-pandas==1.5.3
-tqdm==4.64.0
+numpy>=1.24
+pandas
+tqdm
+joblib
+pillow
+rasterio>=1.4
+matplotlib
+seaborn
+gdal 
